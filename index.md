@@ -2,6 +2,34 @@
 layout: default
 ---
 
+# Portifolio 
+
+## Eduction
+### Masters Degree: 2022 - present 
+Started my Masters Degree at Ontario Tech University in Electrical Engineering and Applied Science. I am a part of of the IoT research lab, where we work on some cool [projects](iotresearchlab.com). 
+Finished the following five courses:
+1. Real-time data analysis
+2. Advanced software and data engineering
+3. Data mining 
+4. Network computing
+5. Sensors networks
+
+## Work Experince
+
+## Side Projects
+
+## Blogs
+
+
+
+
+
+
+
+
+
+
+
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).

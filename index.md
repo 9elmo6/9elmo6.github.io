@@ -6,7 +6,7 @@ layout: default
 
 ## Eduction
 ### Masters Degree: 2022 - present 
-Started my Masters Degree at Ontario Tech University in Electrical Engineering and Applied Science. I am a part of of the IoT research lab, where we work on some cool [projects](iotresearchlab.com). 
+Started my Masters Degree at Ontario Tech University in Electrical Engineering and Applied Science. I am a part of of the IoT research lab, where we work on some cool [projects](https://iotresearchlab.ca). 
 Finished the following five courses:
 1. Real-time data analysis
 2. Advanced software and data engineering

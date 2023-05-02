@@ -10,7 +10,7 @@ Started my Masters Degree at Ontario Tech University in Electrical Engineering a
 Finished the following five courses:
 1. Real-time data analysis:
   Studied the following topics:
-  * Real-time data streaming/processing
+  * Real-time data streaming/processing 
   * IoT architectures and working with data
   * Deep learning for IoT
   * Time series analysis and spatiotemporal modelling

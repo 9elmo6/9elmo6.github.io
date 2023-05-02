@@ -21,8 +21,10 @@ Finished the following five courses:
 2. Advanced software and data engineering
 
 3. Data mining
+
 >	Conducted a comprehensive sentiment analysis of the FIFA World Cup 2022 by collecting and 
-> examining tweets over a 12-year period (around 10M tweets) since the announcement of Qatar as the host in 2010, 
+> examining tweets over a 12-year period (around 10M tweets) since the announcement of Qatar as 
+> the host in 2010, 
 > providing valuable insights into public perception and opinion trends.
 
 4. Network computing

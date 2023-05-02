@@ -19,8 +19,19 @@ Finished the following five courses:
 > vechiles in challenging weather conditions. A paper is done and pending relative confernce for publication.
 
 2. Advanced software and data engineering
-3. Data mining 
+
+3. Data mining
+>	Conducted a comprehensive sentiment analysis of the FIFA World Cup 2022 by collecting and 
+> examining tweets over a 12-year period (around 10M tweets) since the announcement of Qatar as the host in 2010, 
+> providing valuable insights into public perception and opinion trends.
+
 4. Network computing
+> Designed and implemented a predictive maintenance system for air production units using the 
+> MetroPT benchmark dataset. The system was deployed on Google Cloud, allowing for real-time data  
+> collection and analysis from connected sensors through the Pub/Sub messaging service. This 
+> streamlined solution enables more efficient maintenance and reduced downtime for the production 
+> units.
+
 5. Sensors networks
 
 ## Work Experince

@@ -28,11 +28,7 @@ Finished the following five courses:
 > providing valuable insights into public perception and opinion trends.
 
 4. Network computing
-> Designed and implemented a predictive maintenance system for air production units using the 
-> MetroPT benchmark dataset. The system was deployed on Google Cloud, allowing for real-time data  
-> collection and analysis from connected sensors through the Pub/Sub messaging service. This 
-> streamlined solution enables more efficient maintenance and reduced downtime for the production 
-> units.
+> Designed and implemented a predictive maintenance system for air production units using the MetroPT benchmark dataset. The system was deployed on Google Cloud, allowing for real-time data collection and analysis from connected sensors through the Pub/Sub messaging service. This streamlined solution enables more efficient maintenance and reduced downtime for the production units.
 
 5. Sensors networks
 > Worked on simulating WSN attacks using Cooja and Contiki-NG and implementing ways to overcome these attacks
@@ -49,10 +45,20 @@ Personal areas of growth:
 
 ## Work Experince
 
+### 2021 - 2022 Project Coordinator at Applab Qatar
+Here write about the projects you handled QSFA, Bayyena, Aljnoub reservation system, check linkedin
+
 ## Side Projects
+
+Here write about the smart home system OpenHab
+
+
+
+
 
 ## Blogs
 
+write your first blog here 
 
 
 

@@ -42,9 +42,9 @@ Personal areas of growth:
 
 ### 2021 - 2022 Project Coordinator at Applab Qatar
 
-•	Worked as a project manager for multiple web apps development projects, which involved me gather requirements, getting client approval, and deliver the project on time
-•	Handled operations tasks for two projects, which included me working on client sites to provide support on urgent matters
-•	Finished multiple projects in the UX phase, where I managed to help clients draft their ideas into an SRS document and produce UI concept designs with the help of a designer to have to project ready for development.
+Worked as a project manager for multiple web apps development projects, which involved me gather requirements, getting client approval, and deliver the project on time
+Handled operations tasks for two projects, which included me working on client sites to provide support on urgent matters
+Finished multiple projects in the UX phase, where I managed to help clients draft their ideas into an SRS document and produce UI concept designs with the help of a designer to have to project ready for development.
 A list of the projects I worked on:
 1. [Al-jnoub reservation system](https://aljnoub.qa)
 A reservation system is built for the Ministry of Environment and Climate Change. During the 4th season for the mobile app, I was able to apply multiple additional features to enhance the user experiences for the users and for the admins working on the system. For example:

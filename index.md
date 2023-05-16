@@ -2,43 +2,22 @@
 layout: default
 ---
 
-# Portifolio 
+# Ammar Elmoghazy 
 
 ## Eduction
-### [Masters Degree: 2022 - present ](masters.html)
 
+### Masters Degree: 2022 - present 
+![OTU logo](assets/images/OntarioTechUniversity_Primary_Colour_RGB_150ppi.png)
 
-### BENG Degree: 2018 - 2021 
-Achieved a First class in a degree focused on Control Systems Analysis, Engineering Mathematics, Microcontrollers and Programmable Logic, Analogue Analysis and Design, Advanced Electronics Systems, Real-time Embedded Systems, Control Systems Design, and Digital Signal Processing.
-Personal areas of growth:
+[courses and projects done](masters.html)
 
-1. Developed knowledge in C/C++ programming language, and applied this knowledge in different projects for example, a line follower robot, and a conveyor belt project.
+### BENG Degree: 2018 - 2021
+[courses and projects done](beng.html)
 
-2. My final year project was on smart homes and machine learning, where I built a system that collects and stores different types of data for example the house electric appliances power measurements, network presence information. Then uses a machine learning trained model to optimize the total energy usage of the house. Technical skills like Python, Linux, bash scripting, and machine learning were developed and applied in the project.
-
-3. The main aim of the project is to ensure that user data stays private and secure during the whole process of collection, storing, and training the machine learning model, so opensource software was utilized to be able to meet this requirement like OpenHab, InfluxDB, Grafana, and MQTT protocol.	
 
 ## Work Experince
-
 ### 2021 - 2022 Project Coordinator at Applab Qatar
-
-Worked as a project manager for multiple web apps development projects, which involved me gather requirements, getting client approval, and deliver the project on time
-Handled operations tasks for two projects, which included me working on client sites to provide support on urgent matters
-Finished multiple projects in the UX phase, where I managed to help clients draft their ideas into an SRS document and produce UI concept designs with the help of a designer to have to project ready for development.
-A list of the projects I worked on:
-1. [Al-jnoub reservation system](https://aljnoub.qa)
-A reservation system is built for the Ministry of Environment and Climate Change. During the 4th season for the mobile app, I was able to apply multiple additional features to enhance the user experiences for the users and for the admins working on the system. For example:
-- Cancel and apply for refund feature from the mobile app.
-- Ability to send out push notifications and SMS messages to specific groups.
-- Ability to export different types of reports from the system for accounting purposes.
-- A smooth way to check in and check out from the camps on the day of the reservations.
-Technologies used - Microsoft Azure, Laravel, Native
-
-2. [QSFA](https://apps.apple.com/ca/app/qsfa/id1316984329)
-After working on the operations side for more that 6 months, I was able to generate various ideas to improve the mobile application. I worked on an enhanced user experience concentrating on the services and the features which are most used by the user and making them much easier for them. Also while updating the technologies used for the mobile development to allow for more advanced features to be implemented.
-Technologies used - Microsoft Azure, Laravel, Swift, kotlin, MongoDB
-3. [Bayyena platform](https://bayyena.com) - Handled the Project development phase of the platform. The platform was a subscription based website targeting people and organisations with interests in following legal content like latest laws, rulings, and articles. The aim is to make a user friendly website to allow filtering, and following specific industries. In addition to, an automated newsletter sent out according to the selected countries, and industries for the subscribed users to stay on the top of all the latest news.
-Technologies used - Microsoft Azure, Laravel, HTML, CSS, Javascript
+[Role Description](applab.html)
 
 ### 2019 - 2020 IBM UK, Technology placment year
 1. Demonstrated exceptional workload management and customer service skills by efficiently allocating cases to engineers and ensuring timely responses to customer inquiries in my role as Workload Manager for the Tivoli monitoring products L2 support team.
@@ -49,7 +28,6 @@ Technologies used - Microsoft Azure, Laravel, HTML, CSS, Javascript
 
 
 ## Projects
-
 Here write about the smart home system OpenHab
 
 

@@ -25,6 +25,7 @@ layout: default
 
 ### 2019 - 2020 IBM UK, Technology placment year
 ![OTU logo](assets/images/ibm.png)
+
 [Role Description](ibm.html)
 
 

@@ -20,7 +20,7 @@ Technologies used - Microsoft Azure, Laravel, Native
 After working on the operations side for more that 6 months, I was able to generate various ideas to improve the mobile application. I worked on an enhanced user experience concentrating on the services and the features which are most used by the user and making them much easier for them. Also while updating the technologies used for the mobile development to allow for more advanced features to be implemented.
 Technologies used - Microsoft Azure, Laravel, Swift, kotlin, MongoDB
 
-3. [Bayyena platform](https://bayyena.com) - Handled the Project development phase of the platform. The platform was a subscription based website targeting people and organisations with interests in following legal content like latest laws, rulings, and articles. The aim is to make a user friendly website to allow filtering, and following specific industries. In addition to, an automated newsletter sent out according to the selected countries, and industries for the subscribed users to stay on the top of all the latest news.
+3. Bayyena platform - Handled the Project development phase of the platform. The platform was a subscription based website targeting people and organisations with interests in following legal content like latest laws, rulings, and articles. The aim is to make a user friendly website to allow filtering, and following specific industries. In addition to, an automated newsletter sent out according to the selected countries, and industries for the subscribed users to stay on the top of all the latest news.
 Technologies used - Microsoft Azure, Laravel, HTML, CSS, Javascript
 
 

@@ -30,11 +30,16 @@ layout: default
 
 
 
-## Projects and publications
-1. ProActRail - A predictive maintaince cloud solution - paper under review
+## Projects and publications 
+1. ![F1tenth][ammar-portifolio.html]
+2. ProActRail - A predictive maintaince cloud solution - paper under review
 
-2. FIFA world cup 2022 sentiment analysis - upload code to github 
+3. FIFA world cup 2022 sentiment analysis - upload code to github 
 
-3. Pedestrian detection in hard weather conditions - paper under review
+4. Pedestrian detection in hard weather conditions - paper under review
 
-4. Smart home and machine learning
+5. Smart home and machine learning
+
+
+---------------------------------------------------------
+

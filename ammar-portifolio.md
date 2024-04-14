@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## Welcome to another page
+## Welcome to my Portifolio
 
-Autonomous Vehicle Development (F1tenth Car)
-![F1tenth Car](assets/images/f1tenth_Car.png)
+### Autonomous Vehicle Development [F1tenth vehicle](https://f1tenth.org/about.html)
+![F1tenth Car](assets/images/f1tenth_Car.jpeg)
 
 **Overview:**  
-Developed two scaled-down autonomous vehicles to support cutting-edge research in autonomous driving technologies. Integrated hardware and software components for navigating complex environments.
+Developed two scaled-down autonomous vehicles as part of my research in autonomous driving technologies. Integrated hardware and software components for navigating complex environments.
 
 **Description:**
 - **Full Stack Development:** Implemented the complete software stack for autonomous navigation including perception, localization, planning, and vehicle control.
@@ -26,7 +26,7 @@ Developed two scaled-down autonomous vehicles to support cutting-edge research i
 - Developed robust autonomous driving software, contributing significantly to ongoing research efforts.
 
 
-### Project 2: ProActRail - Predictive Maintenance System for Railway Air Production Units
+### ProActRail - Predictive Maintenance System for Railway Air Production Units
 **Overview:**
 Developed the "ProActRail" application, a sophisticated predictive maintenance system using Streamlit, aimed at enhancing the reliability and safety of railway systems by predicting equipment failures. This project focuses on integrating a machine learning model with cloud-based technologies to enable real-time data processing and predictive analytics.
 

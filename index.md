@@ -31,7 +31,7 @@ layout: default
 
 
 ## Projects and publications 
-1. ![F1tenth][ammar-portifolio.html]
+1. [F1tenth](ammar-portifolio.html)
 2. ProActRail - A predictive maintaince cloud solution - paper under review
 
 3. FIFA world cup 2022 sentiment analysis - upload code to github 

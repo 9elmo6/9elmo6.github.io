@@ -28,7 +28,10 @@ Developed two scaled-down autonomous vehicles as part of my research in autonomo
 
 ### ProActRail - Predictive Maintenance System for Railway Air Production Units
 **Overview:**
-Developed the "ProActRail" application, a sophisticated predictive maintenance system using Streamlit, aimed at enhancing the reliability and safety of railway systems by predicting equipment failures. This project focuses on integrating a machine learning model with cloud-based technologies to enable real-time data processing and predictive analytics.
+Developed the "ProActRail" application, a sophisticated predictive maintenance system using [Streamlit](https://streamlit.io), aimed at enhancing the reliability and safety of railway systems by predicting equipment failures. This project focuses on integrating a machine learning model with cloud-based technologies to enable real-time data processing and predictive analytics.
+
+![System Architecture](assets/images/ProActRail.jpg)
+
 
 **Descrition:**
 - **Machine Learning and Predictive Analytics:** Implemented a Sparse Autoencoder (SAE) model to predict failures using deep learning techniques. This approach improved predictive accuracy and system reliability.

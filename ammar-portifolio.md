@@ -30,7 +30,7 @@ Developed two scaled-down autonomous vehicles as part of my research in autonomo
 **Overview:**
 Developed the "ProActRail" application, a sophisticated predictive maintenance system using [Streamlit](https://streamlit.io), aimed at enhancing the reliability and safety of railway systems by predicting equipment failures. This project focuses on integrating a machine learning model with cloud-based technologies to enable real-time data processing and predictive analytics.
 
-![System Architecture](assets/images/ProActRail.jpg)
+![System Architecture](assets/images/ProActRail.png)
 
 
 **Description:**
@@ -56,7 +56,6 @@ Developed the "ProActRail" application, a sophisticated predictive maintenance s
 **Overview:**
 Developed a smart home system utilizing machine learning to enhance energy efficiency and automate home management. This project involved designing, implementing, and integrating a smart home system with a focus on reducing energy consumption through automated control of home appliances based on user behavior and environmental data.
 
-![System Architecture](assets/images/smart%20home%20arch.png)
 **Description:**
 - Implemented a smart home system using IoT devices with a central home automation hub using OpenHAB, MQTT for communication, and InfluxDB for data storage. Designed the system to operate fully locally without external cloud dependencies to ensure data privacy and security.
 -  Applied machine learning algorithms to predict and automate the control of home appliances such as air conditioners, enhancing energy efficiency. Utilized TensorFlow for model training and deployment, focusing on supervised learning techniques.

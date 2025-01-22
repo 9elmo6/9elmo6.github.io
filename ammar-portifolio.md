@@ -8,7 +8,7 @@ layout: default
 ![F1tenth Car](assets/images/f1tenth_Car.jpeg)
 
 **Overview:**  
-Developed two scaled-down autonomous vehicles as part of my research in autonomous driving technologies. Integrated hardware and software components for navigating complex environments.
+built two scaled-down autonomous vehicles as part of my research in autonomous driving technologies. Integrated hardware and software components for navigating complex environments.
 
 **Description:**
 - **Full Stack Development:** Implemented the complete software stack for autonomous navigation including perception, localization, planning, and vehicle control.

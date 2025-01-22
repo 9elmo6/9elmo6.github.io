@@ -38,7 +38,7 @@ layout: default
 
 4. Pedestrian detection in hard weather conditions - paper under review
 
-5. Smart home and machine learning
+5. Smart home system to analyze and optomise energy consumption 
 
 
 ---------------------------------------------------------
